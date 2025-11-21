@@ -1,0 +1,7 @@
+"staff_id","branch_name","number_of_transactions","total_sales_amount","average_transaction_value","performance_score"
+"S001","Jakarta Selatan Main Store","1","20000.00","20000.000000000000","4.50"
+"S002","Jakarta Selatan Main Store","3","21040000.00","7013333.333333333333","4.20"
+"S004","Bandung Dago Outlet","3","20518000.00","6839333.333333333333","4.70"
+"S005","Jakarta Selatan Main Store","2","16400000.00","8200000.000000000000","4.00"
+"S006","Surabaya Central","1","1700000.00","1700000.000000000000","4.60"
+"S007","Surabaya Central","2","1100000.00","550000.000000000000","3.90"
