@@ -1,7 +1,7 @@
 -- Data Engineer Assessment - SQL Part 1
 -- Task: Calculate inventory turnover metrics per branch
--- Author: [Nama Kamu]
--- Date: [Tanggal Hari Ini]
+-- Author: Wikan Priambudi
+-- Date: 21 November 2025
 -- Description: 
 -- Query ini menghitung total barang masuk, keluar, sisa stok, dan barang expired 
 -- untuk setiap cabang. Menggunakan logika Conditional Aggregation.
@@ -16,7 +16,7 @@ WITH stock_calculations AS (
         SUM(CASE WHEN transaction_type = 'EXP' THEN quantity ELSE 0 END) AS total_expired,
         SUM(CASE WHEN transaction_type = 'ADJ' THEN quantity ELSE 0 END) AS total_adj
     FROM inventory_movements
-    -- Filter data untuk range tahun 2023 (Last 3 months simulation based on mock data)
+    -- Filter data untuk range (Last 3 months simulation based on mock data)
     WHERE transaction_date BETWEEN '2023-01-01' AND '2023-12-31'
     GROUP BY branch_code
 )
