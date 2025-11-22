@@ -20,6 +20,7 @@ data-engineer-assessment/
 │   └── screenshots/         # Dashboard preview images
 └── README.md                # Main Project Documentation
 ```
+---
 ## 🛠️ Tools & Technologies Used
 * **Database:** PostgreSQL v16, pgAdmin 4
 * **ETL / Scripting:** Python 3.x (Libraries: `pandas`, `numpy`, `openpyxl`)
