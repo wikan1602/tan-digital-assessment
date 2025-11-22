@@ -1,0 +1,55 @@
+============================================================
+ETL PIPELINE PROCESSING LOG
+Data Cleaning & Transformation Report
+Date Generated: 2025-11-22
+============================================================
+
+[INFO] Starting city name standardization process (Data Cleaning)...
+
+1. ISSUE: ADMINISTRATIVE FORMATS
+   - Problem: Inconsistent use of region prefixes/suffixes.
+     (e.g., "KABUPATEN BOGOR" vs "BOGOR", "BANDUNG, KOTA" vs "KOTA BANDUNG")
+   - Action: Removed keywords "KABUPATEN", "KOTA ADM", "KOTA", and "ADM".
+   - Status: RESOLVED.
+
+2. ISSUE: SPELLING INCONSISTENCIES (TYPOS)
+   - Problem 1: "KERTANEGARA" in asset data (should be "KARTANEGARA").
+   - Action 1: Replaced string "KERTANEGARA" with "KARTANEGARA".
+   - Problem 2: "PAHUWATO" in asset data (should be "POHUWATO").
+   - Action 2: Replaced string "PAHUWATO" with "POHUWATO".
+   - Status: RESOLVED.
+
+3. ISSUE: ABBREVIATIONS (OKU)
+   - Problem: Asset data uses "OKU" abbreviation; Master Data uses the full name.
+   - Action: Expanded "OKU" to "OGAN KOMERING ULU".
+   - Status: RESOLVED.
+
+4. ISSUE: CHARACTERS & SPACING FORMATS
+   - Problem: Differences in spacing or punctuation marks.
+     (e.g., "TOJO UNA UNA" vs "TOJO UNA-UNA")
+   - Action: Removed all spaces, hyphens, and non-letter characters (Regex: [^A-Z]).
+   - Status: RESOLVED.
+
+5. ISSUE: MASTER DATA FORMATTING
+   - Problem: Master Data contains alias names inside parentheses which prevent matching.
+     (e.g., "KABUPATEN OGAN KOMERING ULU SELATAN (OKU SELATAN)")
+   - Action: Removed all text content within parentheses (...) in Master Data before matching.
+   - Status: RESOLVED.
+
+6. ISSUE: INCOMPLETE CITY NAMES
+   - Problem: City names are truncated or lack specificity.
+     (e.g., "PANGKAJENE" -> "PANGKAJENE KEPULAUAN")
+   - Action: Appended full names for specific cases (Pangkajene & Siau Tagulandang).
+   - Status: RESOLVED.
+
+============================================================
+FINAL SUMMARY
+============================================================
+Total Input Records       : 4908 Rows
+Successfully Processed    : 4900 Rows (99.8%)
+Failed / Invalid          : 8 Rows (0.2%)
+
+REMAINING ERROR NOTES:
+- 8 records with location "JAKARTA" could not be processed due to ambiguity (Generic Name).
+  Master Data requires specific districts (Central/West/East/South/North Jakarta).
+  Action Required: Manual verification with data owner.
