@@ -1,0 +1,515 @@
+City,CityCode,Province,Region,RegionalCode
+Kabupaten Aceh Barat,MBO,Provinsi Aceh,Sumbagut,01
+Kabupaten Aceh Barat Daya,BPD,Provinsi Aceh,Sumbagut,01
+Kabupaten Aceh Besar,JTH,Provinsi Aceh,Sumbagut,01
+Kabupaten Aceh Jaya,CAG,Provinsi Aceh,Sumbagut,01
+Kabupaten Aceh Selatan,TTN,Provinsi Aceh,Sumbagut,01
+Kabupaten Aceh Singkil,SKL,Provinsi Aceh,Sumbagut,01
+Kabupaten Aceh Tamiang,KRB,Provinsi Aceh,Sumbagut,01
+Kabupaten Aceh Tengah,TKN,Provinsi Aceh,Sumbagut,01
+Kabupaten Aceh Tenggara,KTN,Provinsi Aceh,Sumbagut,01
+Kabupaten Aceh Timur,LGS,Provinsi Aceh,Sumbagut,01
+Kabupaten Aceh Utara,LSK,Provinsi Aceh,Sumbagut,01
+Kabupaten Adm. Kepulauan Seribu,KSU,DKI Jakarta,Jabodetabek,04
+Kabupaten Agam,LBB,Provinsi Sumatera Barat,Sumbagteng,02
+Kabupaten Alor,KLB,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Asahan,KIS,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Asmat,AGT,Provinsi Papua,Puma,11
+Kabupaten Badung,MGW,Provinsi Bali,Balinusra,08
+Kabupaten Balangan,PRN,Provinsi Kalimantan Selatan,Kalimantan,09
+Kabupaten Bandung,SOR,Provinsi Jawa Barat,Jawa Barat,05
+Kabupaten Bandung Barat,NPH,Provinsi Jawa Barat,Jawa Barat,05
+Kabupaten Banggai,LWK,Provinsi Sulawesi Tengah,Sulawesi,10
+Kabupaten Banggai Kepulauan,SKN,Provinsi Sulawesi Tengah,Sulawesi,10
+Kabupaten Banggai Laut,BGI,Provinsi Sulawesi Tengah,Sulawesi,10
+Kabupaten Bangka,SGL,Provinsi Kepulauan Bangka Belitung,Sumbagsel,03
+Kabupaten Bangka Barat,MTK,Provinsi Kepulauan Bangka Belitung,Sumbagsel,03
+Kabupaten Bangka Selatan,TBL,Provinsi Kepulauan Bangka Belitung,Sumbagsel,03
+Kabupaten Bangka Tengah,KBA,Provinsi Kepulauan Bangka Belitung,Sumbagsel,03
+Kabupaten Bangkalan,BKL,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Bangli,BLI,Provinsi Bali,Balinusra,08
+Kabupaten Banjar,MTP,Provinsi Kalimantan Selatan,Kalimantan,09
+Kabupaten Banjarnegara,BNR,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Bantaeng,BAN,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Bantul,BTL,DI Yogyakarta,Jawa Tengah,06
+Kabupaten Banyuasin,PKB,Provinsi Sumatera Selatan,Sumbagsel,03
+Kabupaten Banyumas,PWT,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Banyuwangi,BYW,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Barito Kuala,MRH,Provinsi Kalimantan Selatan,Kalimantan,09
+Kabupaten Barito Selatan,BNT,Provinsi Kalimantan Tengah,Kalimantan,09
+Kabupaten Barito Timur,TML,Provinsi Kalimantan Tengah,Kalimantan,09
+Kabupaten Barito Utara,MTW,Provinsi Kalimantan Tengah,Kalimantan,09
+Kabupaten Barru,BAR,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Batang,BTG,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Batanghari,MBN,Provinsi Jambi,Sumbagsel,03
+Kabupaten Batu Bara,LMP,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Bekasi,CKR,Provinsi Jawa Barat,Jabodetabek,04
+Kabupaten Belitung,TDN,Provinsi Kepulauan Bangka Belitung,Sumbagsel,03
+Kabupaten Belitung Timur,MGR,Provinsi Kepulauan Bangka Belitung,Sumbagsel,03
+Kabupaten Belu,ATB,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Bener Meriah,STR,Provinsi Aceh,Sumbagut,01
+Kabupaten Bengkalis,BLS,Provinsi Riau,Sumbagteng,02
+Kabupaten Bengkayang,BEK,Provinsi Kalimantan Barat,Kalimantan,09
+Kabupaten Bengkulu Selatan,MNA,Provinsi Bengkulu,Sumbagsel,03
+Kabupaten Bengkulu Tengah,KRT,Provinsi Bengkulu,Sumbagsel,03
+Kabupaten Bengkulu Utara,AGM,Provinsi Bengkulu,Sumbagsel,03
+Kabupaten Berau,TNR,Provinsi Kalimantan Timur,Kalimantan,09
+Kabupaten Biak Numfor,BIK,Provinsi Papua,Puma,11
+Kabupaten Bima,WHO,Provinsi Nusa Tenggara Barat,Balinusra,08
+Kabupaten Bintan,BSB,Provinsi Kepulauan Riau,Sumbagteng,02
+Kabupaten Bireuen,BIR,Provinsi Aceh,Sumbagut,01
+Kabupaten Blitar,KNR,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Blora,BLA,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Boalemo,TMT,Provinsi Gorontalo,Sulawesi,10
+Kabupaten Bogor,CBI,Provinsi Jawa Barat,Jabodetabek,04
+Kabupaten Bojonegoro,BJN,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Bolaang Mongondow,LLK,Provinsi Sulawesi Utara,Sulawesi,10
+Kabupaten Bolaang Mongondow Selatan,BLU,Provinsi Sulawesi Utara,Sulawesi,10
+Kabupaten Bolaang Mongondow Timur,TTY,Provinsi Sulawesi Utara,Sulawesi,10
+Kabupaten Bolaang Mongondow Utara,BRK,Provinsi Sulawesi Utara,Sulawesi,10
+Kabupaten Bombana,RMB,Provinsi Sulawesi Tenggara,Sulawesi,10
+Kabupaten Bondowoso,BDW,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Bone,WTP,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Bone Bolango,SWW,Provinsi Gorontalo,Sulawesi,10
+Kabupaten Boven Digoel,TMR,Provinsi Papua,Puma,11
+Kabupaten Boyolali,BYL,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Brebes,BBS,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Buleleng,SGR,Provinsi Bali,Balinusra,08
+Kabupaten Bulukumba,BLK,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Bulungan,TJS,Provinsi Kalimantan Utara,Kalimantan,09
+Kabupaten Bungo,MRB,Provinsi Jambi,Sumbagsel,03
+Kabupaten Buol,BUL,Provinsi Sulawesi Tengah,Sulawesi,10
+Kabupaten Buru,NLA,Provinsi Maluku,Puma,11
+Kabupaten Buru Selatan,NMR,Provinsi Maluku,Puma,11
+Kabupaten Buton,PSW,Provinsi Sulawesi Tenggara,Sulawesi,10
+Kabupaten Buton Selatan,BAG,Provinsi Sulawesi Tenggara,Sulawesi,10
+Kabupaten Buton Tengah,LBK,Provinsi Sulawesi Tenggara,Sulawesi,10
+Kabupaten Buton Utara,BNG,Provinsi Sulawesi Tenggara,Sulawesi,10
+Kabupaten Ciamis,CMS,Provinsi Jawa Barat,Jawa Barat,05
+Kabupaten Cianjur,CJR,Provinsi Jawa Barat,Jawa Barat,05
+Kabupaten Cilacap,CLP,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Cirebon,SBR,Provinsi Jawa Barat,Jawa Barat,05
+Kabupaten Dairi,SDK,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Deiyai (Deliyai),TIG,Provinsi Papua,Puma,11
+Kabupaten Deli Serdang,LBP,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Demak,DMK,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Dharmasraya,PLJ,Provinsi Sumatera Barat,Sumbagteng,02
+Kabupaten Dogiyai,KGM,Provinsi Papua,Puma,11
+Kabupaten Dompu,DPU,Provinsi Nusa Tenggara Barat,Balinusra,08
+Kabupaten Donggala,DGL,Provinsi Sulawesi Tengah,Sulawesi,10
+Kabupaten Empat Lawang,TBG,Provinsi Sumatera Selatan,Sumbagsel,03
+Kabupaten Ende,END,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Enrekang,ENR,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Fakfak,FFK,Provinsi Papua Barat,Puma,11
+Kabupaten Flores Timur,LRT,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Garut,GRT,Provinsi Jawa Barat,Jawa Barat,05
+Kabupaten Gayo Lues,BKJ,Provinsi Aceh,Sumbagut,01
+Kabupaten Gianyar,GIN,Provinsi Bali,Balinusra,08
+Kabupaten Gorontalo,LBT,Provinsi Gorontalo,Sulawesi,10
+Kabupaten Gorontalo Utara,KWD,Provinsi Gorontalo,Sulawesi,10
+Kabupaten Gowa,SGM,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Gresik,GSK,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Grobogan,PWD,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Gunung Kidul,WNO,DI Yogyakarta,Jawa Tengah,06
+Kabupaten Gunung Mas,KKN,Provinsi Kalimantan Tengah,Kalimantan,09
+Kabupaten Halmahera Barat,JLL,Provinsi Maluku Utara,Sulawesi,10
+Kabupaten Halmahera Selatan,LBA,Provinsi Maluku Utara,Sulawesi,10
+Kabupaten Halmahera Tengah,WED,Provinsi Maluku Utara,Sulawesi,10
+Kabupaten Halmahera Timur,MAB,Provinsi Maluku Utara,Sulawesi,10
+Kabupaten Halmahera Utara,TOB,Provinsi Maluku Utara,Sulawesi,10
+Kabupaten Hulu Sungai Selatan,KGN,Provinsi Kalimantan Selatan,Kalimantan,09
+Kabupaten Hulu Sungai Tengah,BRB,Provinsi Kalimantan Selatan,Kalimantan,09
+Kabupaten Hulu Sungai Utara,AMT,Provinsi Kalimantan Selatan,Kalimantan,09
+Kabupaten Humbang Hasundutan,DLS,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Indragiri Hilir,TBH,Provinsi Riau,Sumbagteng,02
+Kabupaten Indragiri Hulu,RGT,Provinsi Riau,Sumbagteng,02
+Kabupaten Indramayu,IDM,Provinsi Jawa Barat,Jawa Barat,05
+Kabupaten Intan Jaya,SGP,Provinsi Papua,Puma,11
+Kabupaten Jayapura,JAP,Provinsi Papua,Puma,11
+Kabupaten Jayawijaya,WAM,Provinsi Papua,Puma,11
+Kabupaten Jember,JMR,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Jembrana,NGA,Provinsi Bali,Balinusra,08
+Kabupaten Jeneponto,JNP,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Jepara,JPA,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Jombang,JBG,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Kaimana,KMN,Provinsi Papua Barat,Puma,11
+Kabupaten Kampar,BKN,Provinsi Riau,Sumbagteng,02
+Kabupaten Kapuas,KLK,Provinsi Kalimantan Tengah,Kalimantan,09
+Kabupaten Kapuas Hulu,PTS,Provinsi Kalimantan Barat,Kalimantan,09
+Kabupaten Karanganyar,KRG,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Karangasem,KRA,Provinsi Bali,Balinusra,08
+Kabupaten Karawang,KWG,Provinsi Jawa Barat,Jabodetabek,04
+Kabupaten Karimun,TBK,Provinsi Kepulauan Riau,Sumbagteng,02
+Kabupaten Karo,KBJ,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Katingan,KSN,Provinsi Kalimantan Tengah,Kalimantan,09
+Kabupaten Kaur,BHN,Provinsi Bengkulu,Sumbagsel,03
+Kabupaten Kayong Utara,SKD,Provinsi Kalimantan Barat,Kalimantan,09
+Kabupaten Kebumen,KBM,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Kediri,KDR,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Keerom,WRS,Provinsi Papua,Puma,11
+Kabupaten Kendal,KDL,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Kepahiang,KPH,Provinsi Bengkulu,Sumbagsel,03
+Kabupaten Kepulauan Anambas,TRP,Provinsi Kepulauan Riau,Sumbagteng,02
+Kabupaten Kepulauan Aru,DOB,Provinsi Maluku,Puma,11
+Kabupaten Kepulauan Mentawai,TPT,Provinsi Sumatera Barat,Sumbagteng,02
+Kabupaten Kepulauan Meranti,TTG,Provinsi Riau,Sumbagteng,02
+Kabupaten Kepulauan Sangihe,THN,Provinsi Sulawesi Utara,Sulawesi,10
+Kabupaten Kepulauan Selayar,BEN,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Kepulauan Siau Tagulandang Biaro (Sitaro),ODS,Provinsi Sulawesi Utara,Sulawesi,10
+Kabupaten Kepulauan Sula,SNN,Provinsi Maluku Utara,Sulawesi,10
+Kabupaten Kepulauan Talaud,MGN,Provinsi Sulawesi Utara,Sulawesi,10
+Kabupaten Kepulauan Yapen (Yapen Waropen),SRU,Provinsi Papua,Puma,11
+Kabupaten Kerinci,SPN,Provinsi Jambi,Sumbagsel,03
+Kabupaten Ketapang,KTP,Provinsi Kalimantan Barat,Kalimantan,09
+Kabupaten Klaten,KLN,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Klungkung,SRP,Provinsi Bali,Balinusra,08
+Kabupaten Kolaka,KKA,Provinsi Sulawesi Tenggara,Sulawesi,10
+Kabupaten Kolaka Timur,TRW,Provinsi Sulawesi Tenggara,Sulawesi,10
+Kabupaten Kolaka Utara,LSS,Provinsi Sulawesi Tenggara,Sulawesi,10
+Kabupaten Konawe,UNH,Provinsi Sulawesi Tenggara,Sulawesi,10
+Kabupaten Konawe Kepulauan,LGR,Provinsi Sulawesi Tenggara,Sulawesi,10
+Kabupaten Konawe Selatan,ADL,Provinsi Sulawesi Tenggara,Sulawesi,10
+Kabupaten Konawe Utara,WGD,Provinsi Sulawesi Tenggara,Sulawesi,10
+Kabupaten Kotabaru,KBR,Provinsi Kalimantan Selatan,Kalimantan,09
+Kabupaten Kotawaringin Barat,PBU,Provinsi Kalimantan Tengah,Kalimantan,09
+Kabupaten Kotawaringin Timur,SPT,Provinsi Kalimantan Tengah,Kalimantan,09
+Kabupaten Kuantan Singingi,TLK,Provinsi Riau,Sumbagteng,02
+Kabupaten Kubu Raya,SRY,Provinsi Kalimantan Barat,Kalimantan,09
+Kabupaten Kudus,KDS,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Kulon Progo,WAT,DI Yogyakarta,Jawa Tengah,06
+Kabupaten Kuningan,KNG,Provinsi Jawa Barat,Jawa Barat,05
+Kabupaten Kupang,KPG,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Kutai Barat,SDW,Provinsi Kalimantan Timur,Kalimantan,09
+Kabupaten Kutai Kartanegara,TRG,Provinsi Kalimantan Timur,Kalimantan,09
+Kabupaten Kutai Timur,SGT,Provinsi Kalimantan Timur,Kalimantan,09
+Kabupaten Labuhanbatu,RAP,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Labuhanbatu Selatan,KPI,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Labuhanbatu Utara,AKK,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Lahat,LHT,Provinsi Sumatera Selatan,Sumbagsel,03
+Kabupaten Lamandau,NGB,Provinsi Kalimantan Tengah,Kalimantan,09
+Kabupaten Lamongan,LMG,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Lampung Barat,LIW,Provinsi Lampung,Sumbagsel,03
+Kabupaten Lampung Selatan,KLA,Provinsi Lampung,Sumbagsel,03
+Kabupaten Lampung Tengah,GNS,Provinsi Lampung,Sumbagsel,03
+Kabupaten Lampung Timur,SDN,Provinsi Lampung,Sumbagsel,03
+Kabupaten Lampung Utara,KTB,Provinsi Lampung,Sumbagsel,03
+Kabupaten Landak,NBA,Provinsi Kalimantan Barat,Kalimantan,09
+Kabupaten Langkat,STB,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Lanny Jaya,TOM,Provinsi Papua,Puma,11
+Kabupaten Lebak,RKB,Provinsi Banten,Jabodetabek,04
+Kabupaten Lebong,TUB,Provinsi Bengkulu,Sumbagsel,03
+Kabupaten Lembata,LWB,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Lima Puluh Kota,SRK,Provinsi Sumatera Barat,Sumbagteng,02
+Kabupaten Lingga,DKL,Provinsi Kepulauan Riau,Sumbagteng,02
+Kabupaten Lombok Barat,GRG,Provinsi Nusa Tenggara Barat,Balinusra,08
+Kabupaten Lombok Tengah,PYA,Provinsi Nusa Tenggara Barat,Balinusra,08
+Kabupaten Lombok Timur,SEL,Provinsi Nusa Tenggara Barat,Balinusra,08
+Kabupaten Lombok Utara,TJN,Provinsi Nusa Tenggara Barat,Balinusra,08
+Kabupaten Lumajang,LMJ,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Luwu,PLP,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Luwu Timur,MLL,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Luwu Utara,MSB,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Madiun,MJY,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Magelang,MKD,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Magetan,MGT,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Mahakam Ulu,UJB,Provinsi Kalimantan Timur,Kalimantan,09
+Kabupaten Majalengka,MJL,Provinsi Jawa Barat,Jawa Barat,05
+Kabupaten Majene,MJN,Provinsi Sulawesi Barat,Sulawesi,10
+Kabupaten Malaka,BTN,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Malang,KPN,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Malinau,MLN,Provinsi Kalimantan Utara,Kalimantan,09
+Kabupaten Maluku Barat Daya,TKR,Provinsi Maluku,Puma,11
+Kabupaten Maluku Tengah,MSH,Provinsi Maluku,Puma,11
+Kabupaten Maluku Tenggara,TUL,Provinsi Maluku,Puma,11
+Kabupaten Maluku Tenggara Barat,SML,Provinsi Maluku,Puma,11
+Kabupaten Mamasa,MMS,Provinsi Sulawesi Barat,Sulawesi,10
+Kabupaten Mamberamo Raya,BRM,Provinsi Papua,Puma,11
+Kabupaten Mamberamo Tengah,KBK,Provinsi Papua,Puma,11
+Kabupaten Mamuju,MAM,Provinsi Sulawesi Barat,Sulawesi,10
+Kabupaten Mamuju Tengah,TBD,Provinsi Sulawesi Barat,Sulawesi,10
+Kabupaten Mamuju Utara,PKY,Provinsi Sulawesi Barat,Sulawesi,10
+Kabupaten Mandailing Natal,PYB,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Manggarai,RTG,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Manggarai Barat,LBJ,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Manggarai Timur,BRG,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Manokwari,MNK,Provinsi Papua Barat,Puma,11
+Kabupaten Manokwari Selatan,RNK,Provinsi Papua Barat,Puma,11
+Kabupaten Mappi,KEP,Provinsi Papua,Puma,11
+Kabupaten Maros,MRS,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Maybrat,AFT,Provinsi Papua Barat,Puma,11
+Kabupaten Melawi,NGP,Provinsi Kalimantan Barat,Kalimantan,09
+Kabupaten Mempawah,MPW,Provinsi Kalimantan Barat,Kalimantan,09
+Kabupaten Merangin,BKO,Provinsi Jambi,Sumbagsel,03
+Kabupaten Merauke,MRK,Provinsi Papua,Puma,11
+Kabupaten Mesuji,MSJ,Provinsi Lampung,Sumbagsel,03
+Kabupaten Mimika,TIM,Provinsi Papua,Puma,11
+Kabupaten Minahasa,TNN,Provinsi Sulawesi Utara,Sulawesi,10
+Kabupaten Minahasa Selatan,AMR,Provinsi Sulawesi Utara,Sulawesi,10
+Kabupaten Minahasa Tenggara,RTN,Provinsi Sulawesi Utara,Sulawesi,10
+Kabupaten Minahasa Utara,ARM,Provinsi Sulawesi Utara,Sulawesi,10
+Kabupaten Mojokerto,MJK,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Morowali,BGK,Provinsi Sulawesi Tengah,Sulawesi,10
+Kabupaten Morowali Utara,KND,Provinsi Sulawesi Tengah,Sulawesi,10
+Kabupaten Muara Enim,MRE,Provinsi Sumatera Selatan,Sumbagsel,03
+Kabupaten Muaro Jambi,SNT,Provinsi Jambi,Sumbagsel,03
+Kabupaten Muko Muko,MKM,Provinsi Bengkulu,Sumbagsel,03
+Kabupaten Muna,RAH,Provinsi Sulawesi Tenggara,Sulawesi,10
+Kabupaten Muna Barat,SWG,Provinsi Sulawesi Tenggara,Sulawesi,10
+Kabupaten Murung Raya,PRC,Provinsi Kalimantan Tengah,Kalimantan,09
+Kabupaten Musi Banyuasin,SKY,Provinsi Sumatera Selatan,Sumbagsel,03
+Kabupaten Musi Rawas,MBL,Provinsi Sumatera Selatan,Sumbagsel,03
+Kabupaten Musi Rawas Utara,RPT,Provinsi Sumatera Selatan,Sumbagsel,03
+Kabupaten Nabire,NAB,Provinsi Papua,Puma,11
+Kabupaten Nagan Raya,SKM,Provinsi Aceh,Sumbagut,01
+Kabupaten Nagekeo,MBY,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Natuna,RAN,Provinsi Kepulauan Riau,Sumbagteng,02
+Kabupaten Nduga,KYM,Provinsi Papua,Puma,11
+Kabupaten Ngada,BJW,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Nganjuk,NJK,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Ngawi,NGW,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Nias,GST,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Nias Barat,LHM,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Nias Selatan,TLD,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Nias Utara,LTU,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Nunukan,NNK,Provinsi Kalimantan Utara,Kalimantan,09
+Kabupaten Ogan Ilir,IDL,Provinsi Sumatera Selatan,Sumbagsel,03
+Kabupaten Ogan Komering Ilir,KAG,Provinsi Sumatera Selatan,Sumbagsel,03
+Kabupaten Ogan Komering Ulu,BTA,Provinsi Sumatera Selatan,Sumbagsel,03
+Kabupaten Ogan Komering Ulu Selatan (Oku Selatan),MRD,Provinsi Sumatera Selatan,Sumbagsel,03
+Kabupaten Ogan Komering Ulu Timur (Oku Timur),MPR,Provinsi Sumatera Selatan,Sumbagsel,03
+Kabupaten Pacitan,PCT,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Padang Lawas,SBH,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Padang Lawas Utara,GNT,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Padang Pariaman,NPM,Provinsi Sumatera Barat,Sumbagteng,02
+Kabupaten Pakpak Bharat,SAL,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Pamekasan,PMK,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Pandeglang,PDG,Provinsi Banten,Jabodetabek,04
+Kabupaten Pangandaran,PAG,Provinsi Jawa Barat,Jawa Barat,05
+Kabupaten Pangkajene Kepulauan,PKJ,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Paniai,ERT,Provinsi Papua,Puma,11
+Kabupaten Parigi Moutong,PRG,Provinsi Sulawesi Tengah,Sulawesi,10
+Kabupaten Pasaman,LBS,Provinsi Sumatera Barat,Sumbagteng,02
+Kabupaten Pasaman Barat,SPE,Provinsi Sumatera Barat,Sumbagteng,02
+Kabupaten Paser,TGT,Provinsi Kalimantan Timur,Kalimantan,09
+Kabupaten Pasuruan,PSR,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Pati,PTI,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Pegunungan Arfak,ANG,Provinsi Papua Barat,Puma,11
+Kabupaten Pegunungan Bintang,OSB,Provinsi Papua,Puma,11
+Kabupaten Pekalongan,KJN,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Pelalawan,PKK,Provinsi Riau,Sumbagteng,02
+Kabupaten Pemalang,PML,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Penajam Paser Utara,PNJ,Provinsi Kalimantan Timur,Kalimantan,09
+Kabupaten Penukal Abab Lematang Ilir,TLB,Provinsi Sumatera Selatan,Sumbagsel,03
+Kabupaten Pesawaran,GDT,Provinsi Lampung,Sumbagsel,03
+Kabupaten Pesisir Barat,KRU,Provinsi Lampung,Sumbagsel,03
+Kabupaten Pesisir Selatan,PNN,Provinsi Sumatera Barat,Sumbagteng,02
+Kabupaten Pidie,SGI,Provinsi Aceh,Sumbagut,01
+Kabupaten Pidie Jaya,MRN,Provinsi Aceh,Sumbagut,01
+Kabupaten Pinrang,PIN,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Pohuwato,MAR,Provinsi Gorontalo,Sulawesi,10
+Kabupaten Polewali Mandar,PLW,Provinsi Sulawesi Barat,Sulawesi,10
+Kabupaten Ponorogo,PNG,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Poso,PSO,Provinsi Sulawesi Tengah,Sulawesi,10
+Kabupaten Pringsewu,PRW,Provinsi Lampung,Sumbagsel,03
+Kabupaten Probolinggo,KRS,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Pulang Pisau,PPS,Provinsi Kalimantan Tengah,Kalimantan,09
+Kabupaten Pulau Morotai,DRB,Provinsi Maluku Utara,Sulawesi,10
+Kabupaten Pulau Taliabu,BOB,Provinsi Maluku Utara,Sulawesi,10
+Kabupaten Puncak,ILG,Provinsi Papua,Puma,11
+Kabupaten Puncak Jaya,MUL,Provinsi Papua,Puma,11
+Kabupaten Purbalingga,PBG,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Purwakarta,PWK,Provinsi Jawa Barat,Jabodetabek,04
+Kabupaten Purworejo,PWR,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Raja Ampat,WAS,Provinsi Papua Barat,Puma,11
+Kabupaten Rejang Lebong,CRP,Provinsi Bengkulu,Sumbagsel,03
+Kabupaten Rembang,RBG,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Rokan Hilir,UJT,Provinsi Riau,Sumbagteng,02
+Kabupaten Rokan Hulu,PRP,Provinsi Riau,Sumbagteng,02
+Kabupaten Rote Ndao,BAA,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Sabu Raijua,SBB,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Sambas,SBS,Provinsi Kalimantan Barat,Kalimantan,09
+Kabupaten Samosir,PRR,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Sampang,SPG,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Sanggau,SAG,Provinsi Kalimantan Barat,Kalimantan,09
+Kabupaten Sarmi,SMI,Provinsi Papua,Puma,11
+Kabupaten Sarolangun,SRL,Provinsi Jambi,Sumbagsel,03
+Kabupaten Sekadau,SED,Provinsi Kalimantan Barat,Kalimantan,09
+Kabupaten Seluma,TAS,Provinsi Bengkulu,Sumbagsel,03
+Kabupaten Semarang,UNR,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Seram Bagian Barat,DRH,Provinsi Maluku,Puma,11
+Kabupaten Seram Bagian Timur,DTH,Provinsi Maluku,Puma,11
+Kabupaten Serang,SRG,Provinsi Banten,Jabodetabek,04
+Kabupaten Serdang Bedagai,SRH,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Seruyan,KLP,Provinsi Kalimantan Tengah,Kalimantan,09
+Kabupaten Siak,SAK,Provinsi Riau,Sumbagteng,02
+Kabupaten Sidenreng Rappang (Sidrap),SDR,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Sidoarjo,SDA,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Sigi,SGB,Provinsi Sulawesi Tengah,Sulawesi,10
+Kabupaten Sijunjung,MRJ,Provinsi Sumatera Barat,Sumbagteng,02
+Kabupaten Sikka,MME,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Simalungun,PMS,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Simeulue,SNB,Provinsi Aceh,Sumbagut,01
+Kabupaten Sinjai,SNJ,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Sintang,STG,Provinsi Kalimantan Barat,Kalimantan,09
+Kabupaten Situbondo,SIT,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Sleman,SMN,DI Yogyakarta,Jawa Tengah,06
+Kabupaten Solok,ARS,Provinsi Sumatera Barat,Sumbagteng,02
+Kabupaten Solok Selatan,PDA,Provinsi Sumatera Barat,Sumbagteng,02
+Kabupaten Soppeng,WNS,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Sorong,AMS,Provinsi Papua Barat,Puma,11
+Kabupaten Sorong Selatan,TMB,Provinsi Papua Barat,Puma,11
+Kabupaten Sragen,SGN,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Subang,SNG,Provinsi Jawa Barat,Jawa Barat,05
+Kabupaten Sukabumi,SBM,Provinsi Jawa Barat,Jabodetabek,04
+Kabupaten Sukamara,SKR,Provinsi Kalimantan Tengah,Kalimantan,09
+Kabupaten Sukoharjo,SKH,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Sumba Barat,WKB,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Sumba Barat Daya,TAM,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Sumba Tengah,WBL,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Sumba Timur,WGP,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Sumbawa,SBW,Provinsi Nusa Tenggara Barat,Balinusra,08
+Kabupaten Sumbawa Barat,TLW,Provinsi Nusa Tenggara Barat,Balinusra,08
+Kabupaten Sumedang,SMD,Provinsi Jawa Barat,Jawa Barat,05
+Kabupaten Sumenep,SMP,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Supiori,SRW,Provinsi Papua,Puma,11
+Kabupaten Tabalong,TJG,Provinsi Kalimantan Selatan,Kalimantan,09
+Kabupaten Tabanan,TAB,Provinsi Bali,Balinusra,08
+Kabupaten Takalar,TKA,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Tambrauw,FEF,Provinsi Papua Barat,Puma,11
+Kabupaten Tana Tidung,TDP,Provinsi Kalimantan Utara,Kalimantan,09
+Kabupaten Tana Toraja,MAK,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Tanah Bumbu,BLN,Provinsi Kalimantan Selatan,Kalimantan,09
+Kabupaten Tanah Datar,BSK,Provinsi Sumatera Barat,Sumbagteng,02
+Kabupaten Tanah Laut,PLI,Provinsi Kalimantan Selatan,Kalimantan,09
+Kabupaten Tangerang,TGR,Provinsi Banten,Jabodetabek,04
+Kabupaten Tanggamus,KOT,Provinsi Lampung,Sumbagsel,03
+Kabupaten Tanjung Jabung Barat,KLT,Provinsi Jambi,Sumbagsel,03
+Kabupaten Tanjung Jabung Timur,MSK,Provinsi Jambi,Sumbagsel,03
+Kabupaten Tapanuli Selatan,PSP,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Tapanuli Tengah,SBG,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Tapanuli Utara,TRT,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Tapin,RTA,Provinsi Kalimantan Selatan,Kalimantan,09
+Kabupaten Tasikmalaya,SPA,Provinsi Jawa Barat,Jawa Barat,05
+Kabupaten Tebo,MRT,Provinsi Jambi,Sumbagsel,03
+Kabupaten Tegal,SLW,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Teluk Bintuni,BTI,Provinsi Papua Barat,Puma,11
+Kabupaten Teluk Wondama,RAS,Provinsi Papua Barat,Puma,11
+Kabupaten Temanggung,TMG,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Timor Tengah Selatan,SOE,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Timor Tengah Utara,KFM,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kabupaten Toba Samosir,BLG,Provinsi Sumatera Utara,Sumbagut,01
+Kabupaten Tojo Una-Una,APN,Provinsi Sulawesi Tengah,Sulawesi,10
+Kabupaten Toli Toli,TLI,Provinsi Sulawesi Tengah,Sulawesi,10
+Kabupaten Tolikara,KBG,Provinsi Papua,Puma,11
+Kabupaten Toraja Utara,RTP,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Trenggalek,TRK,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Tuban,TBN,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Tulang Bawang,MGL,Provinsi Lampung,Sumbagsel,03
+Kabupaten Tulang Bawang Barat,TWG,Provinsi Lampung,Sumbagsel,03
+Kabupaten Tulungagung,TLG,Provinsi Jawa Timur,Jawa Timur,07
+Kabupaten Wajo,SKG,Provinsi Sulawesi Selatan,Sulawesi,10
+Kabupaten Wakatobi,WGW,Provinsi Sulawesi Tenggara,Sulawesi,10
+Kabupaten Waropen,BTW,Provinsi Papua,Puma,11
+Kabupaten Way Kanan,BBU,Provinsi Lampung,Sumbagsel,03
+Kabupaten Wonogiri,WNG,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Wonosobo,WSB,Provinsi Jawa Tengah,Jawa Tengah,06
+Kabupaten Yahukimo,SMH,Provinsi Papua,Puma,11
+Kabupaten Yalimo,ELL,Provinsi Papua,Puma,11
+Kota Adm. Jakarta Barat,GGP,DKI Jakarta,Jabodetabek,04
+Kota Adm. Jakarta Pusat,TNA,DKI Jakarta,Jabodetabek,04
+Kota Adm. Jakarta Selatan,KYB,DKI Jakarta,Jabodetabek,04
+Kota Adm. Jakarta Timur,CKG,DKI Jakarta,Jabodetabek,04
+Kota Adm. Jakarta Utara,TJP,DKI Jakarta,Jabodetabek,04
+Kota Ambon,AMB,Provinsi Maluku,Puma,11
+Kota Balikpapan,BPP,Provinsi Kalimantan Timur,Kalimantan,09
+Kota Banda Aceh,BNA,Provinsi Aceh,Sumbagut,01
+Kota Bandar Lampung,BDL,Provinsi Lampung,Sumbagsel,03
+Kota Bandung,BDG,Provinsi Jawa Barat,Jawa Barat,05
+Kota Banjar,BJR,Provinsi Jawa Barat,Jawa Barat,05
+Kota Banjarbaru,BJB,Provinsi Kalimantan Selatan,Kalimantan,09
+Kota Banjarmasin,BJM,Provinsi Kalimantan Selatan,Kalimantan,09
+Kota Batam,BTM,Provinsi Kepulauan Riau,Sumbagteng,02
+Kota Batu,BTU,Provinsi Jawa Timur,Jawa Timur,07
+Kota Bau Bau,BAU,Provinsi Sulawesi Tenggara,Sulawesi,10
+Kota Bekasi,BKS,Provinsi Jawa Barat,Jabodetabek,04
+Kota Bengkulu,BGL,Provinsi Bengkulu,Sumbagsel,03
+Kota Bima,BIM,Provinsi Nusa Tenggara Barat,Balinusra,08
+Kota Binjai,BNJ,Provinsi Sumatera Utara,Sumbagut,01
+Kota Bitung,BIT,Provinsi Sulawesi Utara,Sulawesi,10
+Kota Blitar,BLT,Provinsi Jawa Timur,Jawa Timur,07
+Kota Bogor,BGR,Provinsi Jawa Barat,Jabodetabek,04
+Kota Bontang,BON,Provinsi Kalimantan Timur,Kalimantan,09
+Kota Bukittinggi,BKT,Provinsi Sumatera Barat,Sumbagteng,02
+Kota Cilegon,CLG,Provinsi Banten,Jabodetabek,04
+Kota Cimahi,CMH,Provinsi Jawa Barat,Jawa Barat,05
+Kota Cirebon,CBN,Provinsi Jawa Barat,Jawa Barat,05
+Kota Denpasar,DPR,Provinsi Bali,Balinusra,08
+Kota Depok,DPK,Provinsi Jawa Barat,Jabodetabek,04
+Kota Dumai,DUM,Provinsi Riau,Sumbagteng,02
+Kota Gorontalo,GTO,Provinsi Gorontalo,Sulawesi,10
+Kota Gunungsitoli,GST,Provinsi Sumatera Utara,Sumbagut,01
+Kota Jambi,JMB,Provinsi Jambi,Sumbagsel,03
+Kota Jayapura,JAP,Provinsi Papua,Puma,11
+Kota Kediri,KDR,Provinsi Jawa Timur,Jawa Timur,07
+Kota Kendari,KDI,Provinsi Sulawesi Tenggara,Sulawesi,10
+Kota Kotamobagu,KTG,Provinsi Sulawesi Utara,Sulawesi,10
+Kota Kupang,KPG,Provinsi Nusa Tenggara Timur,Balinusra,08
+Kota Langsa,LGS,Provinsi Aceh,Sumbagut,01
+Kota Lhokseumawe,LSM,Provinsi Aceh,Sumbagut,01
+Kota Lubuk Linggau,LLG,Provinsi Sumatera Selatan,Sumbagsel,03
+Kota Madiun,MAD,Provinsi Jawa Timur,Jawa Timur,07
+Kota Magelang,MGG,Provinsi Jawa Tengah,Jawa Tengah,06
+Kota Makassar,MKS,Provinsi Sulawesi Selatan,Sulawesi,10
+Kota Malang,MLG,Provinsi Jawa Timur,Jawa Timur,07
+Kota Manado,MND,Provinsi Sulawesi Utara,Sulawesi,10
+Kota Mataram,MTR,Provinsi Nusa Tenggara Barat,Balinusra,08
+Kota Medan,MDN,Provinsi Sumatera Utara,Sumbagut,01
+Kota Metro,MET,Provinsi Lampung,Sumbagsel,03
+Kota Mojokerto,MJK,Provinsi Jawa Timur,Jawa Timur,07
+Kota Padang,PAD,Provinsi Sumatera Barat,Sumbagteng,02
+Kota Padang Panjang,PDP,Provinsi Sumatera Barat,Sumbagteng,02
+Kota Padang Sidempuan,PSP,Provinsi Sumatera Utara,Sumbagut,01
+Kota Pagar Alam,PGA,Provinsi Sumatera Selatan,Sumbagsel,03
+Kota Palangkaraya,PLK,Provinsi Kalimantan Tengah,Kalimantan,09
+Kota Palembang,PLG,Provinsi Sumatera Selatan,Sumbagsel,03
+Kota Palopo,PLP,Provinsi Sulawesi Selatan,Sulawesi,10
+Kota Palu,PAL,Provinsi Sulawesi Tengah,Sulawesi,10
+Kota Pangkal Pinang,PGP,Provinsi Kepulauan Bangka Belitung,Sumbagsel,03
+Kota Pare Pare,PRE,Provinsi Sulawesi Selatan,Sulawesi,10
+Kota Pariaman,PMN,Provinsi Sumatera Barat,Sumbagteng,02
+Kota Pasuruan,PSN,Provinsi Jawa Timur,Jawa Timur,07
+Kota Payakumbuh,PYH,Provinsi Sumatera Barat,Sumbagteng,02
+Kota Pekalongan,PKL,Provinsi Jawa Tengah,Jawa Tengah,06
+Kota Pekanbaru,PBR,Provinsi Riau,Sumbagteng,02
+Kota Pematangsiantar,PMS,Provinsi Sumatera Utara,Sumbagut,01
+Kota Pontianak,PTK,Provinsi Kalimantan Barat,Kalimantan,09
+Kota Prabumulih,PBM,Provinsi Sumatera Selatan,Sumbagsel,03
+Kota Probolinggo,PBL,Provinsi Jawa Timur,Jawa Timur,07
+Kota Sabang,SAB,Provinsi Aceh,Sumbagut,01
+Kota Salatiga,SLT,Provinsi Jawa Tengah,Jawa Tengah,06
+Kota Samarinda,SMR,Provinsi Kalimantan Timur,Kalimantan,09
+Kota Sawahlunto,SWL,Provinsi Sumatera Barat,Sumbagteng,02
+Kota Semarang,SMG,Provinsi Jawa Tengah,Jawa Tengah,06
+Kota Serang,SRG,Provinsi Banten,Jabodetabek,04
+Kota Sibolga,SBG,Provinsi Sumatera Utara,Sumbagut,01
+Kota Singkawang,SKW,Provinsi Kalimantan Barat,Kalimantan,09
+Kota Solok,SLK,Provinsi Sumatera Barat,Sumbagteng,02
+Kota Sorong,SON,Provinsi Papua Barat,Puma,11
+Kota Subulussalam,SUS,Provinsi Aceh,Sumbagut,01
+Kota Sukabumi,SKB,Provinsi Jawa Barat,Jabodetabek,04
+Kota Sungai Penuh,SPN,Provinsi Jambi,Sumbagsel,03
+Kota Surabaya,SBY,Provinsi Jawa Timur,Jawa Timur,07
+Kota Surakarta (Solo),SKT,Provinsi Jawa Tengah,Jawa Tengah,06
+Kota Tangerang,TNG,Provinsi Banten,Jabodetabek,04
+Kota Tangerang Selatan,CPT,Provinsi Banten,Jabodetabek,04
+Kota Tanjung Balai,TJB,Provinsi Sumatera Utara,Sumbagut,01
+Kota Tanjung Pinang,TPG,Provinsi Kepulauan Riau,Sumbagteng,02
+Kota Tarakan,TAR,Provinsi Kalimantan Utara,Kalimantan,09
+Kota Tasikmalaya,TSM,Provinsi Jawa Barat,Jawa Barat,05
+Kota Tebing Tinggi,TBT,Provinsi Sumatera Utara,Sumbagut,01
+Kota Tegal,TGL,Provinsi Jawa Tengah,Jawa Tengah,06
+Kota Ternate,TTE,Provinsi Maluku Utara,Sulawesi,10
+Kota Tidore Kepulauan,TDR,Provinsi Maluku Utara,Sulawesi,10
+Kota Tomohon,TMH,Provinsi Sulawesi Utara,Sulawesi,10
+Kota Tual,TUL,Provinsi Maluku,Puma,11
+Kota Yogyakarta,YYK,DI Yogyakarta,Jawa Tengah,06
